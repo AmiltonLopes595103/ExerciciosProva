@@ -1,0 +1,15 @@
+C:\Exercicios-Faculdade\CodigosProva.cs\bin\Debug\net6.0\CodigosProva.cs.exe
+C:\Exercicios-Faculdade\CodigosProva.cs\bin\Debug\net6.0\CodigosProva.cs.deps.json
+C:\Exercicios-Faculdade\CodigosProva.cs\bin\Debug\net6.0\CodigosProva.cs.runtimeconfig.json
+C:\Exercicios-Faculdade\CodigosProva.cs\bin\Debug\net6.0\CodigosProva.cs.dll
+C:\Exercicios-Faculdade\CodigosProva.cs\bin\Debug\net6.0\CodigosProva.cs.pdb
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\CodigosProva.cs.csproj.AssemblyReference.cache
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\CodigosProva.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\CodigosProva.cs.AssemblyInfoInputs.cache
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\CodigosProva.cs.AssemblyInfo.cs
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\CodigosProva.cs.csproj.CoreCompileInputs.cache
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\CodigosProva.cs.dll
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\refint\CodigosProva.cs.dll
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\CodigosProva.cs.pdb
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\CodigosProva.cs.genruntimeconfig.cache
+C:\Exercicios-Faculdade\CodigosProva.cs\obj\Debug\net6.0\ref\CodigosProva.cs.dll

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CodigosProva.cs</id>
+    <version>1.0.0</version>
+    <authors>CodigosProva.cs</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Exercicios-Faculdade\CodigosProva.cs\bin\Debug\net6.0\CodigosProva.cs.runtimeconfig.json" target="lib\net6.0\CodigosProva.cs.runtimeconfig.json" />
+    <file src="C:\Exercicios-Faculdade\CodigosProva.cs\bin\Debug\net6.0\CodigosProva.cs.dll" target="lib\net6.0\CodigosProva.cs.dll" />
+  </files>
+</package>

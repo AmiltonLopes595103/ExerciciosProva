@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodigosProva.cs", "CodigosProva.cs.csproj", "{763412B6-17FF-4326-A9A2-BC0FBCE2D7A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaExercicios.cs", "..\..\Exercicios-Faculdade-C#\ListaExercicios.cs\ListaExercicios.cs\ListaExercicios.cs.csproj", "{8BC5F344-2285-4062-ABC6-D76DB86ACE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{763412B6-17FF-4326-A9A2-BC0FBCE2D7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763412B6-17FF-4326-A9A2-BC0FBCE2D7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763412B6-17FF-4326-A9A2-BC0FBCE2D7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763412B6-17FF-4326-A9A2-BC0FBCE2D7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC5F344-2285-4062-ABC6-D76DB86ACE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC5F344-2285-4062-ABC6-D76DB86ACE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC5F344-2285-4062-ABC6-D76DB86ACE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC5F344-2285-4062-ABC6-D76DB86ACE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C04E88A2-F896-45B9-8D7B-8D8B8343494C}
+	EndGlobalSection
+EndGlobal
